@@ -12,6 +12,10 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - Initial 20160922: Full Volumio 2 support on kernel 3.10.37 with backported overlayfs
 - 20160926: Added drvers for pcm5242 (piano 2/ piano 2.1 support)
 - 20161013: Added more wifi drivers
+- 20161013: Added missing Atheros ath09-htc
+            removed IP tunneling
+
+
 
  
 
