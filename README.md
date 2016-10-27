@@ -16,7 +16,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
             removed IP tunneling
 - 20161013: Compiled from the Allo kernel github
             added WiFi module RTL8192E, correct piano and piano2.1 sound modules
-	    added dsp-firmware as a separate folder to be used during image build 
 
 	    
 
